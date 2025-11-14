@@ -1,5 +1,3 @@
-<!-- Code à factoriser avec des design patterns -->
-
 <?php
 
 class User
